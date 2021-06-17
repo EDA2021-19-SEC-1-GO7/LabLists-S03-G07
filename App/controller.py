@@ -74,7 +74,7 @@ def loadTags(catalog):
     input_file = csv.DictReader(open(tagsfile, encoding='utf-8'))
     for tag in input_file:
         model.addTag(catalog, tag)
-
+#a
 
 def loadBooksTags(catalog):
     """
