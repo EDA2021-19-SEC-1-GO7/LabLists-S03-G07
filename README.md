@@ -27,5 +27,7 @@ Este directorio contiene todo el código de base que se entrega para el funciona
 
     |-- Utils: Funciones auxiliares para el funcionamiento de los TADs y estructuras de datos
 
-Martín Rincón - md.rincon - 201914114
-Mariana Ruiz - m.ruizg - 202011140
+Martín Rincón - md.rincon@uniandes.edu.co - 201914114
+Mariana Ruiz - m.ruizg@uniandes.edu.co - 202011140
+
+En este laboratorio no se crearon ramas porque las tareas no requerían una división del trabajo.
